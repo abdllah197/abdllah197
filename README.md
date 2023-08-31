@@ -25,17 +25,7 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **ASP.NET, ANGULAR**
 
-- 🌱 I’m currently learning **ABP FRAMWORK.**
-
-- ☁️ I've keen interest in web applications. So,I'm learning **ABP**
-
-- 💬 Ask me about **ASP.NET, ANGULAR**
-
-- 📫 Feel free to reach me out **abdllah.zayed.work@gmail.com**
-<!--Intro end-->
 
 
 
@@ -44,11 +34,28 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<!--
+  <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=abdllah197&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdllah197&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=abdllah197&theme=dark&hide_border=false" /> 
+</td>
+-->
+<td width="50%" align="start">
+  <div>
+    <!--Intro start-->
+<p>- 🔭 I’m currently working on <b>ASP.NET, ANGULAR</b</p>
+
+<p>- 🌱 I’m currently learning <b>ABP FRAMWORK.</b</p>
+
+<p>- ☁️ I'm interest in web applications. So,I'm learning <b>ABP</b</p>
+
+<p>- 💬 Ask me about <b>ASP.NET, ANGULAR</b></p>
+
+<p>- 📫 Feel free to reach me out <b>abdllah.zayed.work@gmail.com</b</p>
+<!--Intro end-->
+  </div>
 </td>
 
 <td width="50%" align="center">
@@ -98,14 +105,14 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/abdllah-zayed/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
-  <a href="https://www.linkedin.com/in/abdllah-zayed/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
+   
 </p>
 
 
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdllah197&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
