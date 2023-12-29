@@ -25,48 +25,23 @@
 </div>
 
 
-
-
-
-
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<!--
-  <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=abdllah197&theme=dark&show_icons=true&count_private=true" />
+<p align="center">  
+  <!---<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=abdllah197&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=abdllah197&theme=dark&hide_border=false" /> 
-</td>
--->
-<td width="50%" align="start">
-  <div>
-    <!--Intro start-->
-<p>- 🔭 I’m currently working on <b>ASP.NET, ANGULAR</b</p>
-
-<p>- 🌱 I’m currently learning <b>ABP FRAMWORK.</b</p>
-
-<p>- ☁️ I'm interest in web applications. So,I'm learning <b>ABP</b</p>
-
-<p>- 💬 Ask me about <b>ASP.NET, ANGULAR</b></p>
-
-<p>- 📫 Feel free to reach me out <b>abdllah.zayed.work@gmail.com</b</p>
-<!--Intro end-->
-  </div>
-</td>
-
-<td width="50%" align="center">
-
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=abdllah197&theme=dark&hide_border=false" />--> 
+<div align="center">
+<p>🔭 I’m currently working with</p>
+<p><b>ASP.NET, ABP Framework, ANGULAR</b></p>
+<p>☁️ I'm interest in web applications & microserivce.</p>
+<p>📫 Feel free to reach me out </p>
+<p> <b> abdllah.zayed.work@gmail.com</b></p>
+</div>
+<br>
+<div align=center>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdllah197&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
+</div>
+<br>
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
